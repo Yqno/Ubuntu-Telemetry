@@ -12,5 +12,6 @@ Removes the Amazon link from the Dash in GNOME
 Blocks the UFW tracking server
 To use the script, simply run it on your Ubuntu machine using the following command:
 
-''' chmod +x fxcktelemetry.sh '''
-''' ./fxcktelemetry.sh '''
+``` chmod +x fxcktelemetry.sh ```
+and 
+``` ./fxcktelemetry.sh ``
