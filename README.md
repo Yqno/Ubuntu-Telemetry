@@ -9,7 +9,7 @@ by performing the following actions:
 * Ensures that no telemetry data is sent by changing the relevant settings in the configuration file for apport and whoopsie
 * Disables the collection of usage statistics in GNOME
 * Removes the Amazon link from the Dash in GNOME
-* Blocks the UFW tracking server
+* Blocks the UFW tracking server if UFW is Installed
 
 
 
