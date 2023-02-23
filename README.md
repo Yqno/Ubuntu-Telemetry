@@ -14,4 +14,5 @@ To use the script, simply run it on your Ubuntu machine using the following comm
 
 ``` chmod +x fxcktelemetry.sh ```
 and 
+
 ``` ./fxcktelemetry.sh ``
