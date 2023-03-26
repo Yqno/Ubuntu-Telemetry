@@ -10,7 +10,12 @@ by performing the following actions:
 
 To use the script, simply run it on your Ubuntu machine using the following command:
 
-``` chmod +x fxcktelemetry.sh ```
-and 
+clone the repository with ```git clone```
 
-``` sudo ./fxcktelemetry.sh ```
+then you go into the directory with ```cd Ubuntu-Telemetry```
+
+then you give permission to run this Script with ``` chmod +x fxcktelemetry.sh ```
+ 
+and Run this Script with ``` sudo ./fxcktelemetry.sh ```
+
+
